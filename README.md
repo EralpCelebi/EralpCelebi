@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hey There :)</h1>
+<h3 align="center">I'm a student from Turkey, who writes useless code in his free time:</h3>
 
-<!--
-**EralpCelebi/EralpCelebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eralpcelebi&label=Profile%20views&color=0e75b6&style=flat" alt="eralpcelebi" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ['cranberry'](https://github.com/EralpCelebi/cranberry)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **How you can do anything with LLVM :)**
+
+- 💬 Ask me about **Operating systems and programming language development.**
+
+- 📫 How to reach me **eralp.celebi.personal@gmail.com**
+
+- ⚡ Did you know that... **Orange rhymed with purple?**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eralpcelebi&show_icons=true&locale=en" alt="eralpcelebi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eralpcelebi&" alt="eralpcelebi" /></p>
